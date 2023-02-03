@@ -14,7 +14,7 @@
 | 132 | [[Thalsen Weed]] |
 | 133 | [[Thir]] |
 
-^arctic_very_common
+^arctic-very-common
 
 ### Common
 | dice: 1d9 | Plant |
@@ -29,7 +29,7 @@
 | 113 | [[Snowflake Lichen]] |
 | 114 | [[Snowwood]] |
 
-^arctic_common
+^arctic-common
 
 ### Uncommon
 | dice: 1d6 | Plant |
@@ -41,7 +41,7 @@
 | 68 | [[Jojopojo]] |
 | 69 | [[Kanishta]] |
 
-^arctic_uncommon
+^arctic-uncommon
 
 ### Rare
 | dice: 1d7 | Plant |
@@ -54,7 +54,7 @@
 | 82 | [[Rouddan]] |
 | 83 | [[Salamander Orchids]] |
 
-^arctic_rare
+^arctic-rare
 
 ### Very Rare
 | dice: 1d8 | Plant |
@@ -68,7 +68,7 @@
 | 67 | [[Thistledown]] |
 | 77 | [[Zulsendra]] |
 
-^arctic_very_rare
+^arctic-very-rare
 
 ### Legendary
 | dice: 1d4 | Plant |
@@ -78,7 +78,7 @@
 | 14 | [[Halcyon Crocus]] |
 | 15 | [[Klagul]] |
 
-^arctic_legendary
+^arctic-legendary
 
 ## Cities
 ### Very Common
@@ -102,7 +102,7 @@
 | 130 | [[Tansy]] |
 | 137 | [[Thyme]] |
 
-^cities_very_common
+^cities-very-common
 
 ### Common
 | dice: 1d7 | Plant |
@@ -115,7 +115,7 @@
 | 98 | [[Peony]] |
 | 134 | [[Werasa]] |
 
-^cities_common
+^cities-common
 
 ### Uncommon
 | dice: 1d4 | Plant |
@@ -125,7 +125,7 @@
 | 89 | [[Purple Pipeweed]] |
 | 94 | [[Redroot]] |
 
-^cities_uncommon
+^cities-uncommon
 
 ### Rare
 | dice: 1d5 | Plant |
@@ -136,7 +136,7 @@
 | 84 | [[Scholar’s Dream]] |
 | 101 | [[Vodare]] |
 
-^cities_rare
+^cities-rare
 
 ### Very Rare
 | dice: 1d3 | Plant |
@@ -145,13 +145,13 @@
 | 50 | [[Sasami Tree]] |
 | 70 | [[Verdant Goeleth]] |
 
-^cities_very_rare
+^cities-very-rare
 
 ### Legendary
 | dice: 1d0 | Plant |
 |-------|-------|
 
-^cities_legendary
+^cities-legendary
 
 ## Coastal
 ### Very Common
@@ -167,7 +167,7 @@
 | 91 | [[Locust Needle]] |
 | 138 | [[Umozokai Flower]] |
 
-^coastal_very_common
+^coastal-very-common
 
 ### Common
 | dice: 1d10 | Plant |
@@ -183,7 +183,7 @@
 | 112 | [[Sleeping Ivy]] |
 | 133 | [[Waterorb]] |
 
-^coastal_common
+^coastal-common
 
 ### Uncommon
 | dice: 1d6 | Plant |
@@ -195,7 +195,7 @@
 | 102 | [[Sessali]] |
 | 110 | [[Surane]] |
 
-^coastal_uncommon
+^coastal-uncommon
 
 ### Rare
 | dice: 1d3 | Plant |
@@ -204,20 +204,20 @@
 | 33 | [[Felmather]] |
 | 35 | [[Firethorn]] |
 
-^coastal_rare
+^coastal-rare
 
 ### Very Rare
 | dice: 1d1 | Plant |
 |-------|-------|
 | 9 | [[Chromus Slime]] |
 
-^coastal_very_rare
+^coastal-very-rare
 
 ### Legendary
 | dice: 1d0 | Plant |
 |-------|-------|
 
-^coastal_legendary
+^coastal-legendary
 
 ## Desert
 ### Very Common
@@ -233,7 +233,7 @@
 | 136 | [[Thurl]] |
 | 138 | [[Umozokai Flower]] |
 
-^desert_very_common
+^desert-very-common
 
 ### Common
 | dice: 1d5 | Plant |
@@ -244,7 +244,7 @@
 | 27 | [[Bloodstaunch]] |
 | 123 | [[Taran’ka]] |
 
-^desert_common
+^desert-common
 
 ### Uncommon
 | dice: 1d14 | Plant |
@@ -264,7 +264,7 @@
 | 88 | [[Powdered Desert Milk]] |
 | 120 | [[Whistling Cactus]] |
 
-^desert_uncommon
+^desert-uncommon
 
 ### Rare
 | dice: 1d7 | Plant |
@@ -277,7 +277,7 @@
 | 58 | [[Lissuin]] |
 | 96 | [[Tateesha]] |
 
-^desert_rare
+^desert-rare
 
 ### Very Rare
 | dice: 1d10 | Plant |
@@ -293,14 +293,14 @@
 | 63 | [[Swordstalks]] |
 | 75 | [[Ylam Tree]] |
 
-^desert_very_rare
+^desert-very-rare
 
 ### Legendary
 | dice: 1d1 | Plant |
 |-------|-------|
 | 10 | [[Gariig]] |
 
-^desert_legendary
+^desert-legendary
 
 ## Forests
 ### Very Common
@@ -348,7 +348,7 @@
 | 149 | [[Yagdav Bush]] |
 | 151 | [[Young Lad’s Love]] |
 
-^forests_very_common
+^forests-very-common
 
 ### Common
 | dice: 1d46 | Plant |
@@ -400,7 +400,7 @@
 | 138 | [[Wood Sorrel]] |
 | 139 | [[Yarpick]] |
 
-^forests_common
+^forests-common
 
 ### Uncommon
 | dice: 1d32 | Plant |
@@ -438,7 +438,7 @@
 | 122 | [[Xitluchi]] |
 | 123 | [[Yew Tree]] |
 
-^forests_uncommon
+^forests-uncommon
 
 ### Rare
 | dice: 1d29 | Plant |
@@ -473,7 +473,7 @@
 | 106 | [[Yaran]] |
 | 107 | [[Zalanthar]] |
 
-^forests_rare
+^forests-rare
 
 ### Very Rare
 | dice: 1d23 | Plant |
@@ -502,7 +502,7 @@
 | 72 | [[Waxtree]] |
 | 74 | [[Wispstalks]] |
 
-^forests_very_rare
+^forests-very-rare
 
 ### Legendary
 | dice: 1d6 | Plant |
@@ -514,7 +514,7 @@
 | 30 | [[Trueroot]] |
 | 31 | [[Varenia]] |
 
-^forests_legendary
+^forests-legendary
 
 ## Jungles
 ### Very Common
@@ -539,7 +539,7 @@
 | 128 | [[Tamarind]] |
 | 146 | [[Wittlewort]] |
 
-^jungles_very_common
+^jungles-very-common
 
 ### Common
 | dice: 1d30 | Plant |
@@ -575,7 +575,7 @@
 | 137 | [[Witchweed]] |
 | 139 | [[Yarpick]] |
 
-^jungles_common
+^jungles-common
 
 ### Uncommon
 | dice: 1d26 | Plant |
@@ -607,7 +607,7 @@
 | 121 | [[Witchweave Palm]] |
 | 122 | [[Xitluchi]] |
 
-^jungles_uncommon
+^jungles-uncommon
 
 ### Rare
 | dice: 1d30 | Plant |
@@ -643,7 +643,7 @@
 | 104 | [[Woodrose]] |
 | 105 | [[Wormwood]] |
 
-^jungles_rare
+^jungles-rare
 
 ### Very Rare
 | dice: 1d17 | Plant |
@@ -666,7 +666,7 @@
 | 73 | [[Wildwood]] |
 | 74 | [[Wispstalks]] |
 
-^jungles_very_rare
+^jungles-very-rare
 
 ### Legendary
 | dice: 1d11 | Plant |
@@ -683,7 +683,7 @@
 | 34 | [[Yazur]] |
 | 35 | [[Yazur]] |
 
-^jungles_legendary
+^jungles-legendary
 
 ## Mountains
 ### Very Common
@@ -704,7 +704,7 @@
 | 138 | [[Umozokai Flower]] |
 | 148 | [[Wolfweed]] |
 
-^mountains_very_common
+^mountains-very-common
 
 ### Common
 | dice: 1d19 | Plant |
@@ -729,7 +729,7 @@
 | 124 | [[Thornapple]] |
 | 140 | [[Yavethalion]] |
 
-^mountains_common
+^mountains-common
 
 ### Uncommon
 | dice: 1d13 | Plant |
@@ -748,7 +748,7 @@
 | 100 | [[Sarasar]] |
 | 104 | [[Shepherd’s Purse]] |
 
-^mountains_uncommon
+^mountains-uncommon
 
 ### Rare
 | dice: 1d12 | Plant |
@@ -766,7 +766,7 @@
 | 88 | [[Silverleaf]] |
 | 89 | [[Slimmerane]] |
 
-^mountains_rare
+^mountains-rare
 
 ### Very Rare
 | dice: 1d9 | Plant |
@@ -781,7 +781,7 @@
 | 56 | [[Sky Lotus]] |
 | 77 | [[Zulsendra]] |
 
-^mountains_very_rare
+^mountains-very-rare
 
 ### Legendary
 | dice: 1d11 | Plant |
@@ -798,28 +798,28 @@
 | 27 | [[Spellbane]] |
 | 29 | [[Tahtoalethi]] |
 
-^mountains_legendary
+^mountains-legendary
 
 ## Oceans
 ### Very Common
 | dice: 1d0 | Plant |
 |-------|-------|
 
-^oceans_very_common
+^oceans-very-common
 
 ### Common
 | dice: 1d1 | Plant |
 |-------|-------|
 | 122 | [[Tangara Kelp]] |
 
-^oceans_common
+^oceans-common
 
 ### Uncommon
 | dice: 1d1 | Plant |
 |-------|-------|
 | 99 | [[Sand Vine]] |
 
-^oceans_uncommon
+^oceans-uncommon
 
 ### Rare
 | dice: 1d3 | Plant |
@@ -828,20 +828,20 @@
 | 30 | [[Entangle Weed]] |
 | 44 | [[Gylvir]] |
 
-^oceans_rare
+^oceans-rare
 
 ### Very Rare
 | dice: 1d0 | Plant |
 |-------|-------|
 
-^oceans_very_rare
+^oceans-very-rare
 
 ### Legendary
 | dice: 1d1 | Plant |
 |-------|-------|
 | 6 | [[Dratiddel]] |
 
-^oceans_legendary
+^oceans-legendary
 
 ## Plains
 ### Very Common
@@ -925,7 +925,7 @@
 | 150 | [[Yarrow]] |
 | 151 | [[Young Lad’s Love]] |
 
-^plains_very_common
+^plains-very-common
 
 ### Common
 | dice: 1d51 | Plant |
@@ -982,7 +982,7 @@
 | 138 | [[Wood Sorrel]] |
 | 140 | [[Yavethalion]] |
 
-^plains_common
+^plains-common
 
 ### Uncommon
 | dice: 1d28 | Plant |
@@ -1016,7 +1016,7 @@
 | 108 | [[Snapping Grass]] |
 | 118 | [[Vinuk]] |
 
-^plains_uncommon
+^plains-uncommon
 
 ### Rare
 | dice: 1d25 | Plant |
@@ -1047,7 +1047,7 @@
 | 104 | [[Woodrose]] |
 | 106 | [[Yaran]] |
 
-^plains_rare
+^plains-rare
 
 ### Very Rare
 | dice: 1d10 | Plant |
@@ -1063,7 +1063,7 @@
 | 67 | [[Thistledown]] |
 | 70 | [[Verdant Goeleth]] |
 
-^plains_very_rare
+^plains-very-rare
 
 ### Legendary
 | dice: 1d4 | Plant |
@@ -1073,7 +1073,7 @@
 | 23 | [[Rose of Forgetfulness]] |
 | 24 | [[Sadaq’s Bedwort]] |
 
-^plains_legendary
+^plains-legendary
 
 ## Rivers
 ### Very Common
@@ -1092,7 +1092,7 @@
 | 103 | [[Nettle]] |
 | 141 | [[Watercress]] |
 
-^rivers_very_common
+^rivers-very-common
 
 ### Common
 | dice: 1d7 | Plant |
@@ -1105,7 +1105,7 @@
 | 80 | [[Lashar]] |
 | 96 | [[Palma Eldath]] |
 
-^rivers_common
+^rivers-common
 
 ### Uncommon
 | dice: 1d3 | Plant |
@@ -1114,7 +1114,7 @@
 | 48 | [[Fjor’da]] |
 | 72 | [[Lakeleaf]] |
 
-^rivers_uncommon
+^rivers-uncommon
 
 ### Rare
 | dice: 1d10 | Plant |
@@ -1130,7 +1130,7 @@
 | 94 | [[Sweet Trefoile]] |
 | 97 | [[Tereeka Root]] |
 
-^rivers_rare
+^rivers-rare
 
 ### Very Rare
 | dice: 1d4 | Plant |
@@ -1140,7 +1140,7 @@
 | 62 | [[Sweet Arcane]] |
 | 76 | [[Yuzine]] |
 
-^rivers_very_rare
+^rivers-very-rare
 
 ### Legendary
 | dice: 1d2 | Plant |
@@ -1148,7 +1148,7 @@
 | 17 | [[Lizuara]] |
 | 24 | [[Sadaq’s Bedwort]] |
 
-^rivers_legendary
+^rivers-legendary
 
 ## Swamps
 ### Very Common
@@ -1163,7 +1163,7 @@
 | 124 | [[Stirge Traps]] |
 | 145 | [[Willow-Herb]] |
 
-^swamps_very_common
+^swamps-very-common
 
 ### Common
 | dice: 1d6 | Plant |
@@ -1175,7 +1175,7 @@
 | 125 | [[Torment Toadstool]] |
 | 131 | [[Vipervine]] |
 
-^swamps_common
+^swamps-common
 
 ### Uncommon
 | dice: 1d16 | Plant |
@@ -1197,7 +1197,7 @@
 | 101 | [[Scarlet Heart Mushrooms]] |
 | 111 | [[Swampwalker]] |
 
-^swamps_uncommon
+^swamps-uncommon
 
 ### Rare
 | dice: 1d6 | Plant |
@@ -1209,7 +1209,7 @@
 | 87 | [[Shaggy Ink Mushrooms]] |
 | 100 | [[Violet Slime]] |
 
-^swamps_rare
+^swamps-rare
 
 ### Very Rare
 | dice: 1d7 | Plant |
@@ -1222,7 +1222,7 @@
 | 69 | [[Vaundyr Vine]] |
 | 76 | [[Yuzine]] |
 
-^swamps_very_rare
+^swamps-very-rare
 
 ### Legendary
 | dice: 1d2 | Plant |
@@ -1230,7 +1230,7 @@
 | 0 | [[Athelas]] |
 | 5 | [[Devil’s Bloodflower]] |
 
-^swamps_legendary
+^swamps-legendary
 
 ## Underdark/Caves
 ### Very Common
@@ -1240,7 +1240,7 @@
 | 30 | [[Cave Moss]] |
 | 147 | [[Wizard Hats]] |
 
-^underdark/caves_very_common
+^underdark/caves-very-common
 
 ### Common
 | dice: 1d14 | Plant |
@@ -1260,7 +1260,7 @@
 | 126 | [[Trathua]] |
 | 141 | [[Zurkhwood]] |
 
-^underdark/caves_common
+^underdark/caves-common
 
 ### Uncommon
 | dice: 1d18 | Plant |
@@ -1284,7 +1284,7 @@
 | 96 | [[Ripplewood]] |
 | 116 | [[Torchstalk]] |
 
-^underdark/caves_uncommon
+^underdark/caves-uncommon
 
 ### Rare
 | dice: 1d15 | Plant |
@@ -1305,7 +1305,7 @@
 | 93 | [[Stoneshroom]] |
 | 108 | [[Zur]] |
 
-^underdark/caves_rare
+^underdark/caves-rare
 
 ### Very Rare
 | dice: 1d11 | Plant |
@@ -1322,7 +1322,7 @@
 | 60 | [[Sussur]] |
 | 74 | [[Wispstalks]] |
 
-^underdark/caves_very_rare
+^underdark/caves-very-rare
 
 ### Legendary
 | dice: 1d2 | Plant |
@@ -1330,5 +1330,5 @@
 | 5 | [[Devil’s Bloodflower]] |
 | 8 | [[Fordamna]] |
 
-^underdark/caves_legendary
+^underdark/caves-legendary
 
