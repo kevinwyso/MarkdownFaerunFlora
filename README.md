@@ -12,7 +12,7 @@ I am running a 5e campaign and one of my player's characters is obsessed with fl
 Roll a random plant from the *Arctic* **Biome** with a *Very Common* **Rarity**
 
 ```
-`dice: [[Faerun Flora#^arctice-very-common]]|Plant`
+`dice: [[Faerun Flora#^arctic-very-common]]|Plant`
 ```
 
 Roll a random plant from the *Desert* **Biome** with a *Legendary* **Rarity**
