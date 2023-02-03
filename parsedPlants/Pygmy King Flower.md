@@ -1,0 +1,5 @@
+---
+biome: Jungles and Swamps
+---
+The Pygmy King Flower produces a conical, flower-like structure from a base of 8-10 fat, fluid filled leaves that resemble a broken rib cage. The flower is usually 1' in diameter, 2' tall, and always brightly colored. While the color can vary greatly, solid orange and blue with yellow spots are the most common colors in tropical locales. Nectar fills at least half of each basin shaped flower and when exposed to sunlight this liquid releases a sweet, sugary fragrance. Small creatures and large insects are attracted to this smell but upon entering the flower they are trapped by its slippery walls and slowly digested. When a Pygmy King Flower finishes digesting a meal, or becomes over filled (such as after a heavy rain) the flower will tilt and dump its contents onto the jungle floor before slowly righting itself once more. The succulent, rib shaped leaves at the base of this plant can be mashed into a salve that is an excellent treatment for major burns and minor lacerations (successful application of this salve can cure up to 2d8 fire damage if applied within 3 rounds of taking that damage). Q 
+

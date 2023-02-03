@@ -1,0 +1,5 @@
+---
+biome: Plains
+---
+A yellow-orange orchid flower commonly farmed and sold illegally. The pollen of the flower can be turns into a sticky, rich-smelling powder that can be applied to the gums and tongue. When consumed in this way, it brings about a mild hallucinatory state for 4 hours, wherein the recipient's capacity for visualization and imagination are increased. The powder is used recreationally by many, including by those of an artistic bent, but it is members of the Illusion school of magic who benefit most from its effects. Due to the greater precision and depth of imagination produced, all illusions created by one under the influence of the yellow powder gain a boon to their typical effects, be it increased save DC’s, increased damage, or increased defensive properties. The yellow powder is not addictive, but it can lead to a detrimental state of internalization and paranoia. Any session where a character uses the yellow powder, he must make a Wisdom check on 1d20. A roll of above their Wisdom score results in an episode of paranoia some time during the session (at the DM's discretion). 
+

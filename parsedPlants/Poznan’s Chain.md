@@ -1,0 +1,5 @@
+---
+biome: Jungles and Mountains
+---
+Poznan's Chain is a soft-wooded clinging vine armed with white, pearlescent spines, 2" to 3" in length that alternate the entire length of the vine with leathery leaves. These vines are typically only found growing on sheer cliff faces or the most opulent ruined buildings. While a single chain will usually run for 20' to 50' and spread to cover an area of about 200 square feet, some vines are purported to reach 100' or more and cover thousands of square feet with their leaves and thorns. The thorns of Poznan's Chain secrete a virulent poison that causes internal organs to violently rupture and hemorrhage (DC 18 Cons. Save. On a failed save take 6d8 poison damage and the poisoned effect for 6 hours, and on a successful save take half as much damage with no secondary effect.), leading to a bloody death in as little as 20 to 30 seconds. Curiously, if this poison is collected and taken more than 5' from the vine it immediately becomes water. Some claim that Poznan's Chain can produce large, silvery, metallic, star-shaped blooms, but these reports have never been verified. 
+

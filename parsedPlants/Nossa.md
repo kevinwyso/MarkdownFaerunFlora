@@ -1,0 +1,5 @@
+---
+biome: Plains
+---
+Nossa is a plain looking wild-flower resembling a perfectly white tiger lily, with various shades of white representing the plants natural pigmentation. While Nossa itself is not uncommon, the process to make it useable for its primary purposes is incredibly long, tedious, and expensive. Requiring preparation by a talented spellcaster, Nossa can be turned into an incredibly expensive poison, called Zealot’s Blade, by combining the ground petals of the flower with liquid gold and exposing the resulting mixture to the light from the spell Sunburst once a day for a week. A creature subjected to this poison must make a DC 25 Constitution saving throw, taking 15d12 radiant/poison damage on a failed save, or half as much damage on a successful one. This damage ignores resistances and immunities. To purchase, Zealot’s Blade typically goes for upwards of 10,000 gold pieces for a single vial containing only a very small amount of the poison which can then be applied to a weapon only once. 
+

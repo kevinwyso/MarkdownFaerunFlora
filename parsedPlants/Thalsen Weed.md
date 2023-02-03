@@ -1,0 +1,5 @@
+---
+biome: Arctic
+---
+A tough yellowish stalk that grows stiff triangle shaped leaves, the weed is despised throughout the Dalelands to Cor Myr. Some believe the weed to have been magically created, as it grows from seed to mature adult in a matter of days, often seeming to appear instantaneously. Once the weed reaches maturity, it produces a small cluster of white flowers. The petals of the flowers are coated with a dusty powder that causes a slight rash if it comes into contact with the skin. These petals are sometimes picked to create Itching Powder (When coming into contact with bare flesh, the victim must make a Constitution saving throw, DC 13, or begin itching for the next 2d4 hours, or until the powder is washed off.). The rapidly growing weed is said to overcome crops nearly overnight, choking out carefully planted fields, and destroying months of work. Most livestock also refuse to eat the weed, with the exception of goats. Thus, many farmers that live in areas where Thalsen Weed thrives also keep a small number of goats that they let wander in the outer edges of their lands. 
+

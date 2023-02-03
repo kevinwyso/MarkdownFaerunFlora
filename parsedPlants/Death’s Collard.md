@@ -1,0 +1,5 @@
+---
+biome: Underdark/Caves
+---
+A leafy ground-cover plant that resembles simple collard greens but in shades of charcoal grey and blood red. Death’s Collard can be shredded and steeped in sacramental wine and garlic. Although the combination sounds frightening in itself, and actually acts as a minor poison to the living, the resulting mixture is savory in taste with an aftertaste of copper. The resulting mixture, called Bloodwine, is particularly harmful to vampires and other undead. Such creatures have disadvantage on their saving throws to resist the poison's effects. Bloodwine can also be consumed by a living creature, and it remains in the system of that creature for up to 12 hours. Any undead that attempt to consume the creature or drink its blood is affected by the Bloodwine as if they had ingested it themselves. An undead creature subjected to this poison must succeed on a Constitution saving throw, taking 3d6 radiant damage on a failed save, or half as much damage on a successful one. 
+

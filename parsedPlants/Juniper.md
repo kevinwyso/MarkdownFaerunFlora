@@ -1,0 +1,5 @@
+---
+biome: Forests, Plains, and Cities
+---
+The Juniper tree can grow up to ten feet in height. It is an evergreen, which has prickly stiff foliage. The berries appear in early summer, but take roughly three years to ripen to the stage where they are useful. Unripe berries are green, ripe ones are bluish-black in colour. Because of this rather long period of ripening, it is wise to never denude a tree of berries. A normal sized tree will have between 100 and 200 ripe berries. 15 of these berries should be crushed and mixed with boiling water. When the liquid has cooled, the infusion should then be drunk in order to relieve status effects temporarily (3d4 hours). This liquid will only keep for a month under normal conditions, but can be mixed with an alcoholic spirit to increase its lifespan indefinitely. According to the traditions of some northern nomads, a sprig of juniper kept in a house would protect the inhabitants from vampire attacks. This may actually work at the DM’s discretion. 
+
