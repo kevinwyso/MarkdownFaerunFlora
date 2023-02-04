@@ -1,5 +1,0 @@
----
-biome: Rivers and Forests
----
-In appearance this small tree looks much like any other excpt in minature. It can be identified by its vivid green leaves. These leaves when chewed produce large amounts of oxygen from the carbon dioxide already in the persons breath. One leaf may be chewed for up to ten minutes, before its properties are exhausted. The leaves are often boiled down to an essential oil, and the resultant infusion added to starchy natural substances to produce a gum. A piece of this gum will allow the recipient to survive without oxygen for 2d4 x 10 minutes, provided they are conscious and able to chew. The herbs main use is in allowing the recipient to survive in oxygen poor or free environments such as underground. When a tree is found it will normally have 5d10 leaves. Taking too many leaves can harm the tree. The tree has a chance of dying equal to the percentage of the leaves taken. For example, if 30% of the leaves are taken the tree has a 30% chance of dying, if 50% are taken it has a 50% chance of dying. The leaves are also said to have a calming effect when chewed (DM’s discretion). 
-

@@ -1,5 +1,0 @@
----
-biome: Forests
----
-Also called blackwood or darkwood in the North, the bark of the tree ranges from the color of pitch to a dark ash. The tree itself is actually comprised of an extensive root system, from which a number of trunks sprout to the heavens. While the trunk and branches are extremely dark, the leaves of the tree are pale grey and white, often giving the branches an appearance of glowing in the moonlight. The trees are often harvested for their precious darkwood, which has the sturdiness of other hard woods, but is favored because it only weighs half as much. Darkwood weapons and shields are often very light and worked only by the most skilled of craftsmen (shields made of darkwood grant +2 AC and +1 to stealth checks made while holding the shield), both properties that cause such goods to be quite expensive. Wizards of the South favor darkwood when constructing rods, wands, and staves. Since Zalanthar requires masterwork, it requires training or high knowledge of nature in order to effectively craft with. 
-

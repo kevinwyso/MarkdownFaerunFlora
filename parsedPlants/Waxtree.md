@@ -1,5 +1,0 @@
----
-biome: Forests
----
-Waxtrees have large, fuzzy, almost white leaves that grow in bunches at the ends of twisted, dark brown, woody branches that are 1-3 inches thick. While most commonly growing to a height of 2-3 feet, some Wax Trees have been known to grow as large as 8 feet tall. A shallow and spreading root system robs nearby plants of food and moisture causing these trees to be found with few neighbors, even in areas of otherwise dense vegetation. The branches, if broken, ooze a translucent purple, viscous fluid that smells vaguely of citrus. The wax burns cleanly and evenly making it a good alternative to beeswax, and alchemists often seek it out as a foundation for magical glues and thickeners. Exceptionally skilled alchemists are able to use this wax to create a putty that can *permanently* change the shape and structure of facial features. The would-be master of disguise should be cautious however as minor, even accidental, tweaks to this formula will create a putty that causes organic matter (like faces) to dissolve and melt away in a matter of seconds. 
-

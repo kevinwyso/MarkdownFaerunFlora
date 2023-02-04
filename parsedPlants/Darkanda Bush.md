@@ -1,5 +1,0 @@
----
-biome: Mountains
----
-This small bush grows in desolate places, often in rocky soil high upon a cliff face. The branches are covered in small thorns and are gnarled and spindly, while the leaves are ragged and dark green. The bush produces small red flowers and bitter orange berries. When ground up and distilled, the leaves can be used to create an interesting alchemical acid called Dragon Sand that can be used as a poison or to corrode organic items. The substance appears to be a fine green powder, and has two peculiar properties. The first is that it acts like an acid to any organic substance. If it comes into contact with flesh or plant matter it slowly dissolves, dealing 3 (1d4+1) acid damage per round for 2 minutes per ounce contacting the organic substance, and leaving an acrid smell in the air. The second property is that it can be burned for an extended period. If set on fire it burns with leaping green flames, and when applied to wood, the log takes twice as long to burn as an equal amount of normal wood while producing much bigger, hotter flames. 
-

@@ -1,5 +1,0 @@
----
-biome: Underdark/Caves
----
-Nightmare Root is a woody, tuberous plant that grows in deep Underdark locations, sprouting up from even lower places in the abyss. The root can be ground into a fine paste that, although tasteless and without odor, adds the texture of very fine sand to a dish it is added to. Those that consume nightmare root often find themselves plagued by haunting dreams upon falling asleep. A creature subjected to this poison must make a DC 19 Constitution saving throw vs poison. On a failed save, the creature's sleep is haunted with a combination of their greatest fears and everything they've ever done wrong. After these fears are presented, the strong willed and wise can overcome the surface horror of these dreams and attempt a DC 20 Wisdom Save vs fear. If this save is failed, the affected creature cannot benefit from long rests, and therefore gains a point of exhaustion at the beginning of the next day. The poison leaves the creature's system 24 hours after ingestion. 
-

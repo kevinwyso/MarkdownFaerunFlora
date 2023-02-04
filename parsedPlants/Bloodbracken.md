@@ -1,5 +1,0 @@
----
-biome: Forests
----
-A predatory plant that spends 95% of its life underground. The seeds sprout and spread underground, sending out parasitic roots and drawing in nutrients. A few thin tendrils with unremarkable green leaves reach the surface. The seedpod, growing to the size of a large melon over the course of a two-year period, strains and creaks just below the surface. If a creature of sufficient weight steps on the soil above it, it will burst, releasing a cone of red branches that sprays upwards like a land mine, impaling and shredding the target for 10d8 slashing damage. One moment, nothing. The next, a 6' tall red twiggy bush growing through the body of your friend. As the body rots, it provides nutrients for the Bloodbracken to grow and produce seeds. It's entirely safe in this short-lasting mature stage, living to reproduce and wilting after only a few months. If a mature Bloodbracken is found in the wild, the base can be searched to yield bones of unlucky explorers and occasional whatever loot they had on them. 
-

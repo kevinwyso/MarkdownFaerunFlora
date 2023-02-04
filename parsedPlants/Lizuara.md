@@ -1,6 +1,0 @@
----
-biome: Rivers
----
-Found only growing underwater in freshwater at least 30 feet deep, Lizuara is a translucent green grass that seems to curl and uncurl on its own. This water plant, when combined with Stygian Pumpkin, can be turned into an ointment called Neverdeath that, when applied to the forehead of a recently dead creature, will bring the character back from the dead up to 7 days from its death. If the resurrection ritual is completed improperly, the character becomes an undead. After successful application of the ointment, the character being treated must make 3 death saving throws unbeknownst to the rest of the party: 
-
-3 successes or 2 successes and 1 failure will return to character to full health, fully living. 2 failures and 1 success will return the character to conscious undeath, returning the player as a revenant. 3 failures will return the character as a full undead, with the helpful intervention of an evil deity of death, returning the character as a Death Knight with no control over their actions. The Death Knight will attempt to fight, but can also be turned back to the ally as a revenant state if the ointment is applied once more and the Death Knight fails a DC 16 Cons. Save. 

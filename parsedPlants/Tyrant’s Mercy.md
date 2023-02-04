@@ -1,5 +1,0 @@
----
-biome: Jungles
----
-A small, white fungus consisting of only mycelium with no reproductive bodies, Tyrant’s Mercy is a slow-moving fungus that grows mainly on decaying woody matter. When harvested and mashed with a small amount of mercury, the resulting paste is sticky and white with a slightly pearlescent sheen. A contact poison, the paste is often applied to locations that the victim’s flesh would commonly be in contact with, such as sword handles, the insides of crowns and hates, or even on the lids of toilets, repeated exposure may cause the target to slowly lose their mind. Upon each contact, the target must make a DC 10 Cons. Save against poison. Upon 3 consecutive failures, the target then rolls on the Short-Term Madness table (DMG pg. 259). After this initial mild insanity, and more contact with the poison, another 3 consecutive failures will cause a Long-Term Madness effect (DMG pg. 260), and another 3 consecutive failures after that will cause an Indefinite Madness (DMG pg. 260). 
-

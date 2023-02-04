@@ -1,5 +1,0 @@
----
-biome: Plains and Coastal
----
-This woody, vine with golden, spade shaped leaves growing in fan shaped clusters of three or five is a true climber, often reaching 30' to 40'. The blooms of Sleeping Ivy are blue-violet colored tufts, or puffballs, which become covered in an extremely fine yellowish powder. A rash of tiny, fluid filled blisters will form on any skin that has come in contact 1-4 hours after initial contact. Despite its "angry" appearance, the inflamed area is not painful and does not itch, but instead will tingle numbly. After becoming exposed to Sleeping Ivy a victim will become more lethargic and harder to wake from sleep. At first the lethargy brought on by exposure may be so slight as to be unnoticeable, but it will increase in intensity each day it goes untreated. On the seventh day of untreated exposure the victim will fall asleep (quite peacefully) and never wake again. To treat Sleeping Ivy, the inflamed area must be bathed in alcohol. The higher the proof, the more rapid the recovery. 
-

@@ -1,5 +1,0 @@
----
-biome: Desert
----
-Growing close to the ground in areas with minimal water, the plant only sprouts a trio of wide, thick leaves which spread outward to absorb as much moisture as possible and provide as much shade to the sandy soil below as possible. Below the sand the root system delves deep to find hidden reservoirs of water that are not evident on the surface. Also known as “bread of the desert”, this plant develops large spherical fruits nearly the size of a man’s head. These fruits have a tough and leathery exterior, but when cut open, the fruit has the consistency of fluffy bread or cake. The seeds of the fruit are quite small. Each fruit contains enough nutrients to sustain four people for a day. Unfortunately, farming the plant seems to be near impossible. The seeds must be within a medium-size creature when it dies, at which point the release of certain gasses causes the seeds to mature and greedily absorb as much moisture and nutrients from the corpse as possible. This rich bounty allows the plant to develop a strong root system. 
-
